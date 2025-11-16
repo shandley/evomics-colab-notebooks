@@ -6,7 +6,7 @@ Educational bioinformatics notebooks designed to complement [learn.evomics.org](
 
 ### 1. Phylogenetics Tutorial (`phylogenetics_tutorial.ipynb`)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/google-collab-notebooks/blob/main/phylogenetics_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shandley/evomics-colab-notebooks/blob/master/phylogenetics_tutorial.ipynb)
 
 A comprehensive tutorial covering the complete phylogenetic inference workflow.
 
@@ -51,7 +51,7 @@ A comprehensive tutorial covering the complete phylogenetic inference workflow.
 
 **Option 2: From GitHub URL**
 ```
-https://colab.research.google.com/github/[username]/google-collab-notebooks/blob/main/phylogenetics_tutorial.ipynb
+https://colab.research.google.com/github/shandley/evomics-colab-notebooks/blob/master/phylogenetics_tutorial.ipynb
 ```
 
 **Option 3: Manual Upload**
