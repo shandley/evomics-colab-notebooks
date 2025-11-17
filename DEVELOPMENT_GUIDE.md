@@ -400,6 +400,95 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 
 ---
 
+## 👩‍🏫 Creating Instructor Guides
+
+After completing a tutorial, create a comprehensive instructor guide to support teaching:
+
+### Essential Components
+
+1. **Section-by-section teaching notes**
+   - Expected outputs with value ranges
+   - Timing estimates
+   - Common student misconceptions
+   - Discussion prompts
+   - Advanced topics for extension
+
+2. **Grading rubric**
+   - Point values for each exercise
+   - Criteria with 3-4 performance levels
+   - Example answers for full credit
+   - Participation/completion scoring
+
+3. **Troubleshooting FAQ**
+   - Installation issues
+   - Runtime problems
+   - Results variations
+   - Visualization fixes
+   - Conceptual clarifications
+
+4. **Teaching resources**
+   - Workshop format suggestions
+   - Active learning techniques
+   - Checkpoint recommendations
+   - Extension activities
+   - Further reading
+
+### Instructor Guide Template
+
+**Naming**: `{tutorial_name}_INSTRUCTOR.ipynb`
+
+**Structure**:
+```markdown
+# Tutorial Name: Instructor Guide
+
+## Quick Reference
+- Timing overview
+- Prerequisites
+- Learning objectives
+
+## Section-by-Section Guide
+For each section:
+- Expected outputs
+- Teaching tips
+- Common misconceptions
+- Discussion prompts
+
+## Grading Rubric
+- Detailed scoring criteria
+- Example answers
+
+## Troubleshooting FAQ
+- Common issues
+- Solutions
+
+## Teaching Strategies
+- Workshop formats
+- Active learning techniques
+
+## Resources
+- Further reading
+- Extension activities
+```
+
+### Example
+
+See `phylogenetics_tutorial_INSTRUCTOR.ipynb` for a complete example with:
+- 8 sections with detailed teaching notes
+- 50-point grading rubric
+- 25+ FAQ entries
+- 3 workshop format suggestions
+- Checkpoint strategy with timing
+
+### Maintaining Consistency
+
+When updating the main tutorial:
+1. Update expected outputs in instructor guide
+2. Revise teaching tips if explanations change
+3. Adjust timing estimates if runtime changes
+4. Add new FAQs based on user feedback
+
+---
+
 ## 🎯 Next Steps
 
 ### Building New Exercises
@@ -452,6 +541,6 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 
 ---
 
-**Last Updated:** 2024-11-17
-**Workflow Status:** ✅ Proven with phylogenetics tutorial
+**Last Updated:** 2025-01-17
+**Workflow Status:** ✅ Proven with phylogenetics tutorial + instructor guide
 **Next Review:** Before next notebook release
