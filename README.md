@@ -111,6 +111,18 @@ This allows you to develop and test notebooks locally with full tool support:
 
 ### Tips for Instructors
 
+**📚 Instructor Guide Available!**
+
+See [`phylogenetics_tutorial_INSTRUCTOR.ipynb`](phylogenetics_tutorial_INSTRUCTOR.ipynb) for:
+- Expected outputs for all exercises
+- Common student misconceptions and how to address them
+- Discussion prompts for each section
+- Timing estimates (60-75 minutes total)
+- Grading rubric for interpretation exercises
+- Troubleshooting FAQ
+- Teaching strategies and workshop formats
+
+**General Tips:**
 - Notebooks are designed for self-paced learning
 - Can be used in workshops or as homework assignments
 - Interpretation exercises can serve as discussion points
